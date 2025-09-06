@@ -1,9 +1,4 @@
 # TP-integrador-2
-Perfecto 🚀. Te armo un texto para tu **README.md**, claro y formal, que explique qué hace tu programa, cómo está estructurado y qué requisitos cumple:
-
----
-
-# 📌 Gestor de Visitas al MakerSpace
 
 Este programa en **Python** permite **registrar y analizar visitas de estudiantes a un MakerSpace**.
 El objetivo es organizar la información de los alumnos que ingresan, guardarla en un archivo y luego mostrar estadísticas básicas.
@@ -65,7 +60,3 @@ asegura que el programa se ejecute correctamente solo cuando se lo ejecuta direc
 ✔️ **Uso de Series y DataFrames** → manipulación de datos con Pandas (filtrado, conteo, selección).
 ✔️ **Funciones para modularizar el programa** → `registrar_visitas()`, `mostrar_datos()` y `main()`.
 ✔️ **Código ordenado y comentado** → con estructura clara y buenas prácticas de programación.
-
----
-
-¿Querés que te lo deje en formato **markdown listo para copiar y pegar en tu README.md** con títulos, listas y resaltados?
