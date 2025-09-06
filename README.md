@@ -58,4 +58,4 @@ asegura que el programa se ejecute correctamente solo cuando se lo ejecuta direc
 -  **Manejo de archivos con Pandas** → uso de `to_csv` y `read_csv` para guardar y leer los datos.
 - **Uso de Series y DataFrames** → manipulación de datos con Pandas (filtrado, conteo, selección).
 -   **Funciones para modularizar el programa** → `registrar_visitas()`, `mostrar_datos()` y `main()`.
--  ✔️ **Código ordenado y comentado** → con estructura clara y buenas prácticas de programación.
+-  **Código ordenado y comentado** → con estructura clara y buenas prácticas de programación.
