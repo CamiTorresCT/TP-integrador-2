@@ -5,7 +5,7 @@ El objetivo es organizar la información de los alumnos que ingresan, guardarla 
 
 ---
 
-## 🛠️ ¿Qué resuelve?
+## ¿Qué resuelve?
 
 * Facilita el **registro ordenado** de estudiantes (nombre, edad, curso y motivo de la visita).
 * **Almacena los datos en un archivo CSV** para poder consultarlos más tarde.
@@ -18,7 +18,7 @@ El objetivo es organizar la información de los alumnos que ingresan, guardarla 
 
 ---
 
-## ⚙️ Funcionamiento
+## Funcionamiento
 
 El programa está compuesto por **tres funciones principales**:
 
@@ -53,9 +53,9 @@ asegura que el programa se ejecute correctamente solo cuando se lo ejecuta direc
 
 ---
 
-## 📋 Requisitos que cumple
- -    ✔️ **Uso de listas y diccionarios** → para la carga inicial de datos de estudiantes.
--  ✔️ **Manejo de archivos con Pandas** → uso de `to_csv` y `read_csv` para guardar y leer los datos.
-- ✔️ **Uso de Series y DataFrames** → manipulación de datos con Pandas (filtrado, conteo, selección).
--  ✔️ **Funciones para modularizar el programa** → `registrar_visitas()`, `mostrar_datos()` y `main()`.
+## Requisitos que cumple
+ -    **Uso de listas y diccionarios** → para la carga inicial de datos de estudiantes.
+-  **Manejo de archivos con Pandas** → uso de `to_csv` y `read_csv` para guardar y leer los datos.
+- **Uso de Series y DataFrames** → manipulación de datos con Pandas (filtrado, conteo, selección).
+-   **Funciones para modularizar el programa** → `registrar_visitas()`, `mostrar_datos()` y `main()`.
 -  ✔️ **Código ordenado y comentado** → con estructura clara y buenas prácticas de programación.
