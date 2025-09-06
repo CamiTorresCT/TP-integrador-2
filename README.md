@@ -1,4 +1,4 @@
-# TP-integrador-2
+# TRABAJO INTEGRADOR N°2 - Torres, Becerra
 
 Este programa en **Python** permite **registrar y analizar visitas de estudiantes a un MakerSpace**.
 El objetivo es organizar la información de los alumnos que ingresan, guardarla en un archivo y luego mostrar estadísticas básicas.
