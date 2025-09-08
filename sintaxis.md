@@ -1,7 +1,3 @@
-Perfecto 👌, te paso un **mini-glosario de definiciones básicas de sintaxis de Python** que sirven para entender tu código:
-
----
-
 ### 🔹 **Función (`def`)**
 
 Una función es un bloque de código que realiza una tarea.
@@ -104,7 +100,3 @@ print(df)
 ### 🔹 **`if __name__ == "__main__":`**
 
 Sirve para que el programa se ejecute solo si se corre directamente, y no cuando se importa desde otro archivo.
-
----
-
-¿Querés que te arme un **resumen gráfico tipo esquema** con estas definiciones para que lo tengas bien visual?
