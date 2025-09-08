@@ -1,7 +1,3 @@
-Perfecto, te lo explico línea por línea para que entiendas **qué hace el código y qué significa cada parte**:
-
----
-
 ```python
 import pandas as pd  # importa pandas para manejo de datos
 ```
@@ -208,7 +204,3 @@ if __name__ == "__main__": #método de depuración
 
 📌 **En resumen:**
 Este código registra 4 estudiantes (nombre, edad, curso y motivo de la visita), guarda esos datos en un archivo CSV y luego muestra la tabla completa, un conteo por cursos, el primer estudiante y los mayores de 15 años.
-
----
-
-¿Querés que te haga un **diagrama de flujo visual** para ver cómo se ejecuta paso a paso el programa?
